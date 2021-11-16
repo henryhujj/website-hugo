@@ -1,0 +1,4 @@
+baseURL = 'http://henryhujj.org/'
+languageCode = 'en-us'
+title = 'Henry Hu'
+theme = "starter-hugo-academic"
