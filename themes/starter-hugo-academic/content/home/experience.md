@@ -40,7 +40,7 @@ experience:
     company: Cheng Kung University
     company_url: ''
     company_logo: org-x
-    location: California
+    #location: California
     date_start: '2019-11-01'
     date_end: '2021-05-31'
     description: |2-
