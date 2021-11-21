@@ -19,10 +19,10 @@ interests:
 education:
   courses:
   - course: Master of Science in Information Management
-    institution: Cheng Kung University
+    institution: National Cheng Kung University
     year: 2019-2021
   - course: Bachelor of Science in Information Management
-    institution: Dong-Hwa University
+    institution: National Dong-Hwa University
     year: 2015-2019
 
 
