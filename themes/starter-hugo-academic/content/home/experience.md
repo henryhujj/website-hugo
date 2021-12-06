@@ -26,6 +26,7 @@ experience:
     company: Cheng Kung University
     company_url: 'https://researchoutput.ncku.edu.tw/zh/persons/wei-tsong-wang'
     company_logo: org-gc
+    #location: California
     date_start: '2020-09-01'
     date_end: '2021-01-31'
     description: |2-
