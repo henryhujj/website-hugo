@@ -22,7 +22,7 @@ education:
     institution: National Cheng Kung University
     year: 2019-2021
   - course: Bachelor of Science in Information Management
-    institution: National Dong-Hwa University
+    institution: National Cheng Kung University
     year: 2015-2019
 
 
